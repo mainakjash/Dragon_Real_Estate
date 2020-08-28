@@ -1,0 +1,15 @@
+Model Outputs
+
+a) Decision tree
+    Mean score :  4.514657556895338
+    Std of score :  0.9777051640807936
+
+
+b) Linear Regression
+    Mean score :  5.050409322028317
+    Std of score :  1.0565119546190314
+    
+    
+c) Random Forest Regressor
+    Mean score :  3.6972797006667477
+    Std of score :  0.7125547076393969
